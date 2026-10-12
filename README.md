@@ -39,8 +39,6 @@ python -m pip install -r Marcos_Dominguez_requirements.txt
 6. The notebook exports FP32 ONNX and generates static and dynamic INT8 models.
 7. Results and generated models are saved in the `artifacts/` directory.
 
-No Google Drive connection or manually downloaded dataset is required.
-
 ## Model Configuration
 
 - Dataset: CIFAR-10 (45,000 training, 5,000 validation, 10,000 test images)
