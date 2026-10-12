@@ -19,8 +19,8 @@ The trained PyTorch model is exported to ONNX and evaluated using static and dyn
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/xmardox/Compact-CNN-TinyML.git
+cd Compact-CNN-TinyML
 ```
 
 Install the required packages:
