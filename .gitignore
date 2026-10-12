@@ -1,0 +1,23 @@
+# Downloaded CIFAR-10 dataset
+data/
+
+# Generated weights, ONNX models and archives
+artifacts/
+artifacts.zip
+Artifacts.zip
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# OS-generated files
+.DS_Store
+Thumbs.db

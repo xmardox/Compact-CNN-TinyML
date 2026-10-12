@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+onnx
+onnxscript
+onnxruntime
+ipython
+jupyter
+ipykernel
