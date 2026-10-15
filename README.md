@@ -65,4 +65,4 @@ Static INT8 provides a practical balance between model size, accuracy, and CPU i
 
 Inference latency was measured using ONNX Runtime on a CPU with batch size 1 and one inference thread. These results do not establish actual latency, peak RAM usage or an operator compatibility on a microcontroller.
 
-Small differences in accuracy and latency may occur depending on the hardware, package versions, and execution environment.
+Small differences in accuracy and latency may occur depending on the hardware, package versions and execution environment.
